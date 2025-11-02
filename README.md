@@ -21,6 +21,7 @@ Allows me to ask business questions in plain English and receive accurate analyt
 **🔍 AI Analysis Flow** https://app.quadratichq.com/file/a85ccce6-3b12-4566-89c5-dd82ef414d67
 
 Once data is loaded to Supabase, it is connected to Quadra, an AI-powered analytics platform.
+
 I performed:
 Data cleaning using AI-assisted SQL generation.
 Prompt-based analysis
