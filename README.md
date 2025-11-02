@@ -39,15 +39,18 @@ Quadra returned accurate, explainable insights within seconds — eliminating th
 | Data Source | Gmail Attachments (CSV) | Input data received from business sources                |
 
 **💡 Key Highlights**
+
 Fully automated ETL process (no manual download/upload).
 Prompt-based analytics — no manual coding required for insights.
 Integration of open-source tools (n8n + Supabase) with AI-powered analytics.
 Scalable design that can be adapted for any business domain.
 
 **🚀 Impact / Outcome**
+
 Reduced manual report generation time from hours to minutes.
 Demonstrated how AI can empower analysts to focus on business insights, not data wrangling.
 End-to-end working pipeline showcasing automation + AI synergy.
 
 **🧠 Skills Demonstrated**
+
 Automation • ETL Design • SQL / Supabase • Data Cleaning • AI Analytics • Prompt Engineering • Workflow Orchestration
