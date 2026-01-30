@@ -25,18 +25,25 @@ Once data is loaded to Supabase, it is connected to Quadra, an AI-powered analyt
 I performed:
 Data cleaning using AI-assisted SQL generation.
 Prompt-based analysis
-
-KPIs_Table	
-KPI	Value
-Total Order Lines	2065.0
-Line Fill Rate	0.6400217509516042
-Volume Fill Rate	0.9665108888096444
-Total Orders	916.0
-On Time Delivery %	0.6229508196721312
-In Full Delivery %	0.5092896174863388
-On Time In Full %	0.3005464480874317
-
 Quadra returned accurate, explainable insights within seconds — eliminating the need for manual SQL or Python writing.
+
+
+<img width="343" height="250" alt="image" src="https://github.com/user-attachments/assets/2a4d7b49-d554-49c9-80f9-0ec1c76cff7d" />
+
+
+<img width="987" height="250" alt="image" src="https://github.com/user-attachments/assets/72cb02b6-007d-482b-b506-7d2551fa79a0" />
+
+<img width="846" height="468" alt="image" src="https://github.com/user-attachments/assets/26ab08d5-1f48-413e-8b68-c9450b41aa24" />
+
+<img width="841" height="431" alt="image" src="https://github.com/user-attachments/assets/cd05b47c-ba09-4fb8-adaf-fa9e046ca522" />
+
+<img width="828" height="441" alt="image" src="https://github.com/user-attachments/assets/3828a8ba-9c08-47d7-9b52-4e20d3cbf35c" />
+
+
+
+
+
+
 
 
 
